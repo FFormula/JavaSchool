@@ -14,7 +14,8 @@ public class Program
 	void start ()
 	{
 		showMenu ();
-		// 
+		// kodas
+		System.out.println ("Viso gero");
 	}
 
 	void showMenu ()
