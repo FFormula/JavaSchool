@@ -31,7 +31,7 @@ public class Program
 	
 	public Action getMenuAction ()
 	{
-		Action action = null;
+		Action action = Action.EXIT;
 		System.out.print ("Pasirinkite meniu punktą: ");
 		// kodas
 		return action;
