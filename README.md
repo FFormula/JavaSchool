@@ -1,2 +1,0 @@
-# JavaSchool
-Bandomasis Java Egzaminas
