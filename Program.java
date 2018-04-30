@@ -46,7 +46,7 @@ public class Program
 		// kodas
 		// System.out.print("Įveskite studento vardą: ");
 		// System.out.println("KLAIDA. Studentas su tokiu vardu jau yra.");
-		// System.out.println("Studentas užregistruotas, id = " + student.id);
+		// System.out.println("Studentas užregistruotas: " + student);
 	}
 	
 	void addPoint ()
@@ -56,7 +56,7 @@ public class Program
 		// System.out.print("Įveskite kurso pavadinimą: ");
 		// System.out.println("KLAIDA. Kurso pavadinimas nerastas.");
 		// System.out.print("Įveskite studento vardą: ");
-	    // System.out.println("KLAIDA. Studento vardas nerastas.");
+		// System.out.println("KLAIDA. Studento vardas nerastas.");
 		// System.out.print("Įveskitė pažymį (nuo 1 iki 10): ");
 		// System.out.println("KLAIDA. Neleistinta pažymio reikšmė.");
 		// System.out.println("Pažymis užregistruotas, id = " + point.id);
