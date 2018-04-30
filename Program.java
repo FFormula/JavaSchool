@@ -30,8 +30,10 @@ public class Program
 	
 	public Action getMenuAction ()
 	{
+		Action action = null;
+		System.out.print ("Pasirinkite meniu punktą: ");
 		// kodas
-		return Action.EXIT;
+		return action;
 	}
 
 	void showCourses ()
